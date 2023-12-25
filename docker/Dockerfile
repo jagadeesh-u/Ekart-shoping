@@ -1,4 +1,4 @@
-FROM openjdk:8u151-jdk-alpine3.7
+FROM openjdk:23-oracle
 
 EXPOSE 8070
 
